@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Palette shadow -->
+    <path
+        android:fillColor="#22000000"
+        android:pathData="M55,27 C75,27 88,40 88,57 C88,68 81,75 73,75 C68,75 66,71 63,68 C60,65 57,63 52,63 C45,63 41,68 41,75 C41,78 39,82 34,82 C23,82 17,70 17,55 C17,39 33,27 55,27 Z" />
+    <!-- Wooden Palette base -->
+    <path
+        android:fillColor="#FFF9C4"
+        android:strokeColor="#FFB300"
+        android:strokeWidth="2.5"
+        android:pathData="M54,25 C74,25 87,38 87,55 C87,66 80,73 72,73 C67,73 65,69 62,66 C59,63 56,61 51,61 C44,61 40,66 40,73 C40,76 38,80 33,80 C22,80 16,68 16,53 C16,37 32,25 54,25 Z" />
+    <!-- Thumb hole -->
+    <path
+        android:fillColor="#FFE082"
+        android:strokeColor="#FFB300"
+        android:strokeWidth="1.5"
+        android:pathData="M70,55 m-6,0 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0" />
+    <!-- Paint blobs -->
+    <!-- Red -->
+    <path android:fillColor="#FF5252" android:pathData="M32,38 m-5.5,0 a5.5,5.5 0 1,0 11,0 a5.5,5.5 0 1,0 -11,0" />
+    <path android:fillColor="#88FFFFFF" android:pathData="M30,36 m-1.5,0 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0" />
+    <!-- Blue -->
+    <path android:fillColor="#448AFF" android:pathData="M49,33 m-5.5,0 a5.5,5.5 0 1,0 11,0 a5.5,5.5 0 1,0 -11,0" />
+    <path android:fillColor="#88FFFFFF" android:pathData="M47,31 m-1.5,0 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0" />
+    <!-- Green -->
+    <path android:fillColor="#69F0AE" android:pathData="M67,36 m-5.5,0 a5.5,5.5 0 1,0 11,0 a5.5,5.5 0 1,0 -11,0" />
+    <path android:fillColor="#88FFFFFF" android:pathData="M65,34 m-1.5,0 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0" />
+    <!-- Purple -->
+    <path android:fillColor="#E040FB" android:pathData="M27,55 m-5.5,0 a5.5,5.5 0 1,0 11,0 a5.5,5.5 0 1,0 -11,0" />
+    <path android:fillColor="#88FFFFFF" android:pathData="M25,53 m-1.5,0 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0" />
+    <!-- Orange -->
+    <path android:fillColor="#FFAB40" android:pathData="M29,70 m-4.5,0 a4.5,4.5 0 1,0 9,0 a4.5,4.5 0 1,0 -9,0" />
+
+    <!-- Paintbrush handle -->
+    <path
+        android:fillColor="#8D6E63"
+        android:strokeColor="#5D4037"
+        android:strokeWidth="1.2"
+        android:pathData="M84,36 L66,66 L62,64 L80,34 Z" />
+    <!-- Brush ferrule (silver metal) -->
+    <path
+        android:fillColor="#CFD8DC"
+        android:strokeColor="#90A4AE"
+        android:strokeWidth="1"
+        android:pathData="M64,63 L57,74 L54,72 L61,61 Z" />
+    <!-- Brush bristles (with paint tip) -->
+    <path
+        android:fillColor="#FF4081"
+        android:strokeColor="#C2185B"
+        android:strokeWidth="1"
+        android:pathData="M56,73 Q50,83 48,85 Q51,84 54,77 Z" />
+
+    <!-- Cute sparkle stars -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M78,20 L80,24 L84,26 L80,28 L78,32 L76,28 L72,26 L76,24 Z" />
+    <path
+        android:fillColor="#FF80AB"
+        android:pathData="M20,24 L21.5,27 L24.5,28.5 L21.5,30 L20,33 L18.5,30 L15.5,28.5 L18.5,27 Z" />
+</vector>
+

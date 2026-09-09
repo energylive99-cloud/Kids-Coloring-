@@ -1,0 +1,6 @@
+{
+  "name": "Kids Coloring World",
+  "description": "A fun, colorful, safe and simple coloring app for children with animal, vehicle, dinosaur, fruit, nature, space, toy, and alphabet coloring pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
